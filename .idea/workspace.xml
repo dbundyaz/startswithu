@@ -1,0 +1,995 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cc06be67-a8ab-46d6-81b7-c29b6f7871ce" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Resources/Default-568h@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Resources/Default-Landscape~ipad.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Resources/Default.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Resources/Default@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Resources/Icons/Icon-120.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Resources/Icons/Icon-72.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Resources/Icons/Icon-72@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Resources/Icons/Icon-76.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Resources/Icons/Icon-76@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Resources/Icons/Icon-Small-50.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Resources/Icons/Icon-Small.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Resources/Icons/Icon-Small@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Resources/Icons/Icon-Spotlight-iOS7.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Resources/Icons/Icon-Spotlight-iOS7@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Resources/Icons/Icon-iPad-Spotlight-iOS7@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Resources/Icons/Icon.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Resources/Icons/Icon@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/ccDeprecated.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/iTunesArtwork@2x" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/iTunesArtwork" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/ObjectAL/OpenAL/ALBuffer.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/ObjectAL/OpenAL/ALBuffer.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/ObjectAL/OpenAL/ALCaptureDevice.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/ObjectAL/OpenAL/ALCaptureDevice.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/ObjectAL/OpenAL/ALChannelSource.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/ObjectAL/OpenAL/ALChannelSource.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/ObjectAL/OpenAL/ALContext.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/ObjectAL/OpenAL/ALContext.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/ObjectAL/OpenAL/ALDevice.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/ObjectAL/OpenAL/ALDevice.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/ObjectAL/OpenAL/ALListener.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/ObjectAL/OpenAL/ALListener.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/ObjectAL/OpenAL/ALSoundSource.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/ObjectAL/OpenAL/ALSoundSourcePool.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/ObjectAL/OpenAL/ALSoundSourcePool.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/ObjectAL/OpenAL/ALSource.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/ObjectAL/OpenAL/ALSource.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/ObjectAL/OpenAL/ALTypes.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/ObjectAL/OpenAL/ALWrapper.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/ObjectAL/OpenAL/ALWrapper.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/ObjectAL/Support/ARCSafe_MemMgmt.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Classes/AppDelegate.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Classes/AppDelegate.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCAction.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCAction.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCActionCatmullRom.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCActionCatmullRom.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCActionEase.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCActionEase.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCActionInstant.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCActionInstant.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCActionInterval.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCActionInterval.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCActionManager.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCActionManager.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCActionProgressTimer.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCActionProgressTimer.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCActionTween.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCActionTween.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCAnimation.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCAnimation.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCAnimationCache.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCAnimationCache.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/Platforms/iOS/CCAppDelegate.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/Platforms/iOS/CCAppDelegate.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCAtlasNode.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCAtlasNode.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/CCBReader/CCBAnimationManager.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/CCBReader/CCBAnimationManager.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/CCBReader/CCBKeyframe.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/CCBReader/CCBKeyframe.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/CCBReader/CCBLocalizationManager.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/CCBReader/CCBLocalizationManager.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/CCBReader/CCBReader.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/CCBReader/CCBReader.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/CCBReader/CCBReader_Private.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/CCBReader/CCBSequence.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/CCBReader/CCBSequenceProperty.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/CCBReader/CCBSequenceProperty.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/CCBReader/CCBsequence.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/CCBReader/CCBuilderReader.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d-ui/CCButton.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d-ui/CCButton.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCClippingNode.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCClippingNode.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/Support/CCColor.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/Support/CCColor.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCConfiguration.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCConfiguration.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d-ui/CCControl.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d-ui/CCControl.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d-ui/CCControlSubclass.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d-ui/CCControlTextureFactory.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d-ui/CCControlTextureFactory.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCDirector.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCDirector.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/Platforms/iOS/CCDirectorIOS.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/Platforms/iOS/CCDirectorIOS.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/Platforms/Mac/CCDirectorMac.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/Platforms/Mac/CCDirectorMac.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCDirector_Private.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCDrawNode.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCDrawNode.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCDrawingPrimitives.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCDrawingPrimitives.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/Platforms/iOS/CCES2Renderer.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/Platforms/iOS/CCES2Renderer.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/Platforms/iOS/CCESRenderer.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/Support/CCFileUtils.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/Support/CCFileUtils.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/Platforms/CCGL.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCGLProgram.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCGLProgram.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/Platforms/Mac/CCGLView.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/Platforms/iOS/CCGLView.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/Platforms/Mac/CCGLView.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/Platforms/iOS/CCGLView.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCLabelAtlas.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCLabelAtlas.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCLabelBMFont.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCLabelBMFont.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCLabelBMFont_Private.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCLabelTTF.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCLabelTTF.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCLayout.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCLayout.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCLayoutBox.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCLayoutBox.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCMotionStreak.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCMotionStreak.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/Platforms/CCNS.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCNode+Debug.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCNode+Debug.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCNode.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCNode.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCNodeColor.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCNodeColor.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCNode_Private.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCParallaxNode.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCParallaxNode.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCParticleBatchNode.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCParticleBatchNode.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCParticleExamples.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCParticleExamples.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCParticleSystem.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCParticleSystem.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCParticleSystemBase.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCParticleSystemBase.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCParticleSystemBase_Private.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCParticleSystem_Private.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCPhysics+ObjectiveChipmunk.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCPhysicsBody.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCPhysicsBody.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCPhysicsJoint.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCPhysicsJoint.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCPhysicsNode.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCPhysicsNode.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCPhysicsShape.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCPhysicsShape.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/Support/CCProfiling.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/Support/CCProfiling.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCProgressNode.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCProgressNode.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCProgressNode_Private.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCProtocols.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCRenderTexture.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCRenderTexture.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCResponder.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCResponder.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCResponderManager.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCResponderManager.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCScene.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCScene.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCScheduler.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCScheduler.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d-ui/CCScrollView.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d-ui/CCScrollView.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCShaderCache.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCShaderCache.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d-ui/CCSlider.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d-ui/CCSlider.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCSprite.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCSprite.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCSprite9Slice.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCSprite9Slice.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCSpriteBatchNode.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCSpriteBatchNode.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCSpriteBatchNode_Private.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCSpriteFrame.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCSpriteFrame.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCSpriteFrameCache.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCSpriteFrameCache.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCSprite_Private.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCTMXXMLParser.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCTMXXMLParser.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d-ui/CCTableView.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d-ui/CCTableView.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d-ui/CCTextField.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d-ui/CCTextField.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCTexture.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCTexture.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCTextureAtlas.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCTextureAtlas.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCTextureCache.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCTextureCache.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCTexturePVR.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCTexturePVR.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCTexture_Private.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCTiledMap.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCTiledMap.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCTiledMapLayer.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCTiledMapLayer.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCTiledMapLayer_Private.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCTiledMapObjectGroup.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCTiledMapObjectGroup.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCTransition.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/CCTransition.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/Support/CCVertex.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/Support/CCVertex.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/Platforms/Mac/CCWindow.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/Platforms/Mac/CCWindow.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/Support/CGPointExtension.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/Support/CGPointExtension.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/kazmath/src/ChangeLog" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/Chipmunk/objectivec/include/ObjectiveChipmunk/ChipmunkBody.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/Chipmunk/objectivec/src/ChipmunkBody.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/Chipmunk/objectivec/include/ObjectiveChipmunk/ChipmunkConstraint.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/Chipmunk/objectivec/src/ChipmunkConstraint.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/Chipmunk/objectivec/include/ObjectiveChipmunk/ChipmunkExtras.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/Chipmunk/objectivec/include/ObjectiveChipmunk/ChipmunkMultiGrab.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/Chipmunk/objectivec/src/ChipmunkMultiGrab.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/Chipmunk/objectivec/include/ObjectiveChipmunk/ChipmunkShape.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/Chipmunk/objectivec/src/ChipmunkShape.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/Chipmunk/objectivec/include/ObjectiveChipmunk/ChipmunkSpace.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/Chipmunk/objectivec/src/ChipmunkSpace.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Classes/HelloWorldScene.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Classes/HelloWorldScene.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/ObjectAL/Support/IOSVersion.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/ObjectAL/Support/IOSVersion.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Resources/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Classes/IntroScene.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Classes/IntroScene.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/LICENSE_CCBReader.txt" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/LICENSE_Chipmunk.txt" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/LICENSE_Kazmath.txt" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/LICENSE_cocos2d.txt" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/Support/NSAttributedString+CCAdditions.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/Support/NSAttributedString+CCAdditions.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/Platforms/Mac/NSEvent+CC.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/Platforms/Mac/NSEvent+CC.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/ObjectAL/Support/NSMutableArray+WeakReferences.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/ObjectAL/Support/NSMutableArray+WeakReferences.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/ObjectAL/Support/NSMutableDictionary+WeakReferences.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/ObjectAL/Support/NSMutableDictionary+WeakReferences.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/Support/NSThread+performBlock.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/Support/NSThread+performBlock.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/ObjectAL/Actions/OALAction+Private.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/ObjectAL/Actions/OALAction.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/ObjectAL/Actions/OALAction.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/ObjectAL/Actions/OALActionManager.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/ObjectAL/Actions/OALActionManager.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/ObjectAL/Actions/OALAudioActions.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/ObjectAL/Actions/OALAudioActions.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/ObjectAL/Support/OALAudioFile.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/ObjectAL/Support/OALAudioFile.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/ObjectAL/Session/OALAudioSession.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/ObjectAL/Session/OALAudioSession.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/ObjectAL/AudioTrack/OALAudioTrack.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/ObjectAL/AudioTrack/OALAudioTrack.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/ObjectAL/AudioTrack/OALAudioTrackNotifications.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/ObjectAL/AudioTrack/OALAudioTrackNotifications.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/ObjectAL/AudioTrack/OALAudioTracks.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/ObjectAL/AudioTrack/OALAudioTracks.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/ObjectAL/Support/OALNotifications.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/ObjectAL/OALSimpleAudio.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/ObjectAL/OALSimpleAudio.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/ObjectAL/Session/OALSuspendHandler.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/ObjectAL/Session/OALSuspendHandler.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/ObjectAL/Support/OALTools.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/ObjectAL/Support/OALTools.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/ObjectAL/Actions/OALUtilityActions.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/ObjectAL/Actions/OALUtilityActions.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/ObjectAL/ObjectAL.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/ObjectAL/ObjectALConfig.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/ObjectAL/Support/ObjectALMacros.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/Chipmunk/objectivec/include/ObjectiveChipmunk/ObjectiveChipmunk.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/ObjectAL/OpenAL/OpenALManager.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/ObjectAL/OpenAL/OpenALManager.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/Support/OpenGL_Internal.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Supporting Files/Prefix.pch" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/ObjectAL/Support/SynthesizeSingleton.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/Support/TGAlib.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/Support/TGAlib.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/Support/TransformUtils.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/Support/TransformUtils.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/Platforms/iOS/UITouch+CC.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/Platforms/iOS/UITouch+CC.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/Support/ZipUtils.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/Support/ZipUtils.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/kazmath/src/aabb.c" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/kazmath/include/kazmath/aabb.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/Support/base64.c" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/Support/base64.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/ccConfig.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/ccDeprecated.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/ccFPSImages.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/ccFPSImages.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/ccGLStateCache.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/ccGLStateCache.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/ccMacros.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/ccShader_PositionColorLengthTexture_frag.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/ccShader_PositionColorLengthTexture_vert.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/ccShader_PositionColor_frag.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/ccShader_PositionColor_vert.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/ccShader_PositionTextureA8Color_frag.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/ccShader_PositionTextureA8Color_vert.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/ccShader_PositionTextureColorAlphaTest_frag.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/ccShader_PositionTextureColor_frag.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/ccShader_PositionTextureColor_vert.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/ccShader_PositionTexture_frag.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/ccShader_PositionTexture_uColor_frag.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/ccShader_PositionTexture_uColor_vert.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/ccShader_PositionTexture_vert.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/ccShader_Position_uColor_frag.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/ccShader_Position_uColor_vert.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/ccShaders.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/ccShaders.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/ccTypes.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/Support/ccUtils.c" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/Support/ccUtils.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/Chipmunk/chipmunk/src/chipmunk.c" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/Chipmunk/chipmunk/include/chipmunk/chipmunk.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/Chipmunk/chipmunk/include/chipmunk/chipmunk_ffi.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/Chipmunk/chipmunk/include/chipmunk/chipmunk_private.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/Chipmunk/chipmunk/include/chipmunk/chipmunk_types.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/Chipmunk/chipmunk/include/chipmunk/chipmunk_unsafe.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d-ui/cocos2d-ui.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/cocos2d.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/cocos2d.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/Chipmunk/chipmunk/src/cpArbiter.c" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/Chipmunk/chipmunk/include/chipmunk/cpArbiter.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/Chipmunk/chipmunk/src/cpArray.c" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/Chipmunk/chipmunk/include/chipmunk/cpBB.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/Chipmunk/chipmunk/src/cpBBTree.c" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/Chipmunk/chipmunk/src/cpBody.c" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/Chipmunk/chipmunk/include/chipmunk/cpBody.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/Chipmunk/chipmunk/src/cpCollision.c" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/Chipmunk/chipmunk/src/cpConstraint.c" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/Chipmunk/chipmunk/include/chipmunk/cpConstraint.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/Chipmunk/chipmunk/src/cpDampedRotarySpring.c" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/Chipmunk/chipmunk/include/chipmunk/cpDampedRotarySpring.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/Chipmunk/chipmunk/src/cpDampedSpring.c" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/Chipmunk/chipmunk/include/chipmunk/cpDampedSpring.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/Chipmunk/chipmunk/src/cpGearJoint.c" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/Chipmunk/chipmunk/include/chipmunk/cpGearJoint.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/Chipmunk/chipmunk/src/cpGrooveJoint.c" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/Chipmunk/chipmunk/include/chipmunk/cpGrooveJoint.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/Chipmunk/chipmunk/src/cpHashSet.c" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/Chipmunk/chipmunk/src/cpPinJoint.c" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/Chipmunk/chipmunk/include/chipmunk/cpPinJoint.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/Chipmunk/chipmunk/src/cpPivotJoint.c" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/Chipmunk/chipmunk/include/chipmunk/cpPivotJoint.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/Chipmunk/chipmunk/src/cpPolyShape.c" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/Chipmunk/chipmunk/include/chipmunk/cpPolyShape.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/Chipmunk/chipmunk/src/cpRatchetJoint.c" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/Chipmunk/chipmunk/include/chipmunk/cpRatchetJoint.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/Chipmunk/chipmunk/src/cpRotaryLimitJoint.c" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/Chipmunk/chipmunk/include/chipmunk/cpRotaryLimitJoint.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/Chipmunk/chipmunk/src/cpShape.c" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/Chipmunk/chipmunk/include/chipmunk/cpShape.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/Chipmunk/chipmunk/src/cpSimpleMotor.c" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/Chipmunk/chipmunk/include/chipmunk/cpSimpleMotor.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/Chipmunk/chipmunk/src/cpSlideJoint.c" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/Chipmunk/chipmunk/include/chipmunk/cpSlideJoint.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/Chipmunk/chipmunk/src/cpSpace.c" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/Chipmunk/chipmunk/include/chipmunk/cpSpace.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/Chipmunk/chipmunk/src/cpSpaceComponent.c" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/Chipmunk/chipmunk/src/cpSpaceDebug.c" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/Chipmunk/chipmunk/src/cpSpaceHash.c" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/Chipmunk/chipmunk/src/cpSpaceQuery.c" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/Chipmunk/chipmunk/src/cpSpaceStep.c" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/Chipmunk/chipmunk/src/cpSpatialIndex.c" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/Chipmunk/chipmunk/include/chipmunk/cpSpatialIndex.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/Chipmunk/chipmunk/src/cpSweep1D.c" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/Chipmunk/chipmunk/include/chipmunk/cpTransform.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/Chipmunk/chipmunk/include/chipmunk/cpVect.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/kazmath/include/kazmath/kazmath.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/ObjectAL/Support/mach_timing.c" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/ObjectAL/Support/mach_timing.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Supporting Files/main.m" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/kazmath/src/mat3.c" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/kazmath/include/kazmath/mat3.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/kazmath/src/mat4.c" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/kazmath/include/kazmath/mat4.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/kazmath/src/GL/mat4stack.c" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/kazmath/include/kazmath/GL/mat4stack.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/kazmath/src/GL/matrix.c" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/kazmath/include/kazmath/GL/matrix.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/kazmath/src/neon_matrix_impl.c" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/kazmath/include/kazmath/neon_matrix_impl.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/kazmath/src/plane.c" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/kazmath/include/kazmath/plane.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/Chipmunk/chipmunk/src/prime.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld.xcodeproj/project.pbxproj" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/kazmath/src/quaternion.c" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/kazmath/include/kazmath/quaternion.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/kazmath/src/ray2.c" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/kazmath/include/kazmath/ray2.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/Support/uthash.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/kazmath/src/utility.c" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/kazmath/include/kazmath/utility.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/cocos2d/Support/utlist.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/kazmath/src/vec2.c" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/kazmath/include/kazmath/vec2.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/kazmath/src/vec3.c" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/kazmath/include/kazmath/vec3.h" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/kazmath/src/vec4.c" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/XCode Projects/HelloWorld/HelloWorld/Libraries/kazmath/include/kazmath/vec4.h" />
+    </list>
+    <ignored path="startswithu.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/startswithu@Development__startswithu.coverage" NAME="Development: startswithu Coverage Results" MODIFIED="1436819196431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="startswithu" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DatabaseView">
+    <option name="FLATTEN" value="false" />
+    <option name="GROUP_BY_TYPE" value="true" />
+    <option name="SORT_CHILDREN" value="false" />
+    <option name="SHOW_TABLE_CONSTRAINTS" value="true" />
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DbRootNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="startswithu" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="database.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/database.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1515">
+              <caret line="5" column="53" selection-start-line="5" selection-start-column="53" selection-end-line="5" selection-end-column="53" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="routes.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config/routes.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.36057693" vertical-offset="0" max-vertical-offset="945">
+              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="environment.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/environment.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="165">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="development.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/environments/development.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="645">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/config/database.yml" />
+        <option value="$PROJECT_DIR$/config/routes.rb" />
+      </list>
+    </option>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-2" />
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="725" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="RailsProjectView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="startswithu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="startswithu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="startswithu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="startswithu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="startswithu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="startswithu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="startswithu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="db" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="startswithu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="startswithu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="startswithu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="startswithu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="environments" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="dynamic.classpath" value="false" />
+  </component>
+  <component name="RunManager" selected="Rails.Development: startswithu">
+    <configuration default="true" type="RakeRunConfigurationType" factoryName="Rake">
+      <module name="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="RailsRunConfigurationType" factoryName="Rails">
+      <predefined_log_file id="RUBY_RAILS_SERVER" enabled="true" />
+      <module name="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SCRIPT_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="PORT" VALUE="3000" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="IP" VALUE="0.0.0.0" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="DUMMY_APP" VALUE="test/dummy" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="Default" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="development" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="RSpecRunConfigurationType" factoryName="RSpec">
+      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
+      <module name="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="RubyRunConfigurationType" factoryName="Ruby">
+      <module name="" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="com.intellij.database.run.ConsoleRunConfigurationType" factoryName="Query Language Console">
+      <option name="VM_PARAMETERS" value="" />
+      <option name="USER_CFG_CLASS" />
+      <option name="CONTEXT_PROVIDER" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest">
+      <predefined_log_file id="RUBY_TESTUNIT" enabled="true" />
+      <module name="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_METHOD_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_OPTIONS" VALUE="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="false" name="test: startswithu" type="RakeRunConfigurationType" factoryName="Rake">
+      <module name="startswithu" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="RAILS_ENV" value="test" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="test" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE=":test_unit " />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="spec: startswithu" type="RakeRunConfigurationType" factoryName="Rake">
+      <module name="startswithu" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="spec" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE=":rspec " />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Production: startswithu" type="RailsRunConfigurationType" factoryName="Rails">
+      <predefined_log_file id="RUBY_RAILS_SERVER" enabled="true" />
+      <module name="startswithu" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SCRIPT_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="PORT" VALUE="3000" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="IP" VALUE="0.0.0.0" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="DUMMY_APP" VALUE="test/dummy" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="Default" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="production" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Development: startswithu" type="RailsRunConfigurationType" factoryName="Rails">
+      <predefined_log_file id="RUBY_RAILS_SERVER" enabled="true" />
+      <module name="startswithu" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SCRIPT_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="PORT" VALUE="3000" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="IP" VALUE="0.0.0.0" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="DUMMY_APP" VALUE="test/dummy" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="Default" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="development" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
+      <RunnerSettings RunnerId="RubyRunner" />
+      <ConfigurationWrapper RunnerId="RubyRunner" />
+      <method />
+    </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="Rake.test: startswithu" />
+      <item index="1" class="java.lang.String" itemvalue="Rake.spec: startswithu" />
+      <item index="2" class="java.lang.String" itemvalue="Rails.Production: startswithu" />
+      <item index="3" class="java.lang.String" itemvalue="Rails.Development: startswithu" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc06be67-a8ab-46d6-81b7-c29b6f7871ce" name="Default" comment="" />
+      <created>1436807905285</created>
+      <option name="number" value="Default" />
+      <updated>1436807905285</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-2" y="23" width="1280" height="725" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3296875" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32991204" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/config/environment.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="654">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/environments/development.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="654">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/database.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1515">
+          <caret line="5" column="53" selection-start-line="5" selection-start-column="53" selection-end-line="5" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/routes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.36057693" vertical-offset="0" max-vertical-offset="945">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

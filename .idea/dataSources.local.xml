@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Rails startswithu: development" uuid="e39215f9-b806-470d-b300-9ea88b56fd39">
+      <user-name>dbundyaz</user-name>
+      <user-password>dfeedfcfdfc8dfe7dfc6dfc8df9bdf9bdf9b</user-password>
+      <schema-pattern>blog.pg_catalog blog.public</schema-pattern>
+      <default-schemas>blog.pg_catalog blog.public</default-schemas>
+    </data-source>
+    <data-source name="Rails startswithu: test" uuid="d5bc820b-f49f-4fec-9755-38f80b163b94">
+      <user-name>dbundyaz</user-name>
+      <user-password>dfeedfcfdfc8dfe7dfc6dfc8df9bdf9bdf9b</user-password>
+      <schema-pattern>blog.pg_catalog blog.public</schema-pattern>
+      <default-schemas>blog.pg_catalog blog.public</default-schemas>
+    </data-source>
+    <data-source name="Rails startswithu: production" uuid="92cb3e01-ab34-4180-b893-d74f270f3989">
+      <first-sync>true</first-sync>
+      <user-name>dbundyaz</user-name>
+      <user-password>df96df8fdf97df8adfefdfe4dffcdff1df8ddfe4dfefdffddfebdffadfe3dff5dfeedfebdffedfebdfe8dfebdff9dfefdff5dffadfebdff9dff9dffddfe5dff8dfeedf8ddff7df8adf8fdf94</user-password>
+    </data-source>
+  </component>
+</project>
